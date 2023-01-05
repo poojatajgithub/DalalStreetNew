@@ -1,0 +1,24 @@
+2023-01-05 21:25:37,461 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-05 21:28:17,399 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DalalStreetTDD1:DalalStreetTDD1:0.0.1-SNAPSHOT @ E:\new eclipse Workspace\DalalStreetTDD1\pom.xml.
+2023-01-05 21:28:17,399 [Worker-12: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DalalStreetTDD1:DalalStreetTDD1:0.0.1-SNAPSHOT @ E:\new eclipse Workspace\DalalStreetTDD1\pom.xml.
+2023-01-05 21:28:55,475 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:28:55,475 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\new eclipse Workspace\DalalStreetTDD1\src\main\resources
+2023-01-05 21:28:55,483 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:28:55,483 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\new eclipse Workspace\DalalStreetTDD1\src\test\resources
+2023-01-05 21:28:59,731 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DalalStreetTDD1:DalalStreetTDD1:0.0.1-SNAPSHOT @ E:\new eclipse Workspace\DalalStreetTDD1\pom.xml.
+2023-01-05 21:29:05,590 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:29:05,590 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\new eclipse Workspace\DalalStreetTDD1\src\main\resources
+2023-01-05 21:29:05,595 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:29:05,596 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\new eclipse Workspace\DalalStreetTDD1\src\test\resources
+2023-01-05 21:29:07,328 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:29:07,328 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\new eclipse Workspace\DalalStreetTDD1\src\main\resources
+2023-01-05 21:29:07,331 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:29:07,332 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\new eclipse Workspace\DalalStreetTDD1\src\test\resources
+2023-01-05 21:30:24,840 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:30:24,840 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\new eclipse Workspace\DalalStreetTDD1\src\main\resources
+2023-01-05 21:30:24,843 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:30:24,843 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\new eclipse Workspace\DalalStreetTDD1\src\test\resources
+2023-01-05 21:33:32,814 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:33:32,815 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\new eclipse Workspace\DalalStreetTDD1\src\main\resources
+2023-01-05 21:33:32,819 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:33:32,820 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\new eclipse Workspace\DalalStreetTDD1\src\test\resources
